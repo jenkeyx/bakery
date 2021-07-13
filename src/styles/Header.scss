@@ -1,0 +1,45 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.app-label{
+    margin: 0 auto;
+}
+
+.search-button{
+    width: 60px;
+    background-color: #7A4823;
+    border: transparent solid;
+    border-radius: 15px;
+}
+
+.search{
+    display: flex;
+    align-items: center;
+    width: 250px;
+}
+
+.search-icon{
+    z-index: 2;
+    width: 1.32rem;
+    height: 1.32rem;
+}
+
+
+.search-bg{
+    margin-left: -31px;
+    height: 35px;
+    width: 100%;
+    max-width: 276px;
+}
+
+.search-input{
+    background: transparent;
+    margin-left: -13rem;
+    border: none;
+
+    width: inherit;
+    height: inherit;
+}

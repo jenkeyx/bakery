@@ -1,0 +1,24 @@
+{
+    "assortment":[
+        {
+            "category":"Заморозка",
+            "products":[
+                {
+                    "name":"Пельмени",
+                    "price":300,
+                    "img":"pelmeny"
+                },
+                {
+                    "name":"Блины с мясом",
+                    "price":250,
+                    "img":"blin_s_myasom"
+                },
+                {
+                    "name":"Блины с творогом",
+                    "price":270,
+                    "img":"blin_s_tvorogom"
+                }
+            ]
+        }
+    ]
+}
