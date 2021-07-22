@@ -1,0 +1,25 @@
+.services{
+    display: flex;
+    width: auto;
+    overflow-x: scroll;
+    overflow-y: hidden;
+
+    padding-bottom: 10px;
+    margin-top: 21px;
+    
+    .name{
+        width: 75px;
+        margin-left: 10px;
+        margin-bottom: -47px;
+        padding-top: 10px;
+        z-index: 1;
+
+        position: relative;
+
+        font-size: 17px;
+    }
+
+    .item{
+        padding-right: 23px;
+    }
+}

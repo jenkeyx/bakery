@@ -1,0 +1,21 @@
+.item-card{
+    width: 143px;
+    height: 219px;
+    
+    .preview{
+        .image{
+            img{
+                width: 100%;
+                height: 100%;
+                border-radius: 20px;
+            }
+        }
+    }
+
+    .name{
+        font-size: 20px;
+    }
+    .price{
+        font-size: 20px;
+    }
+}

@@ -1,7 +1,7 @@
 {
-    "assortment":[
+    "categories":[
         {
-            "category":"Заморозка",
+            "categoryName":"Заморозка",
             "products":[
                 {
                     "name":"Пельмени",
@@ -19,6 +19,10 @@
                     "img":"blin_s_tvorogom"
                 }
             ]
+        },
+        {
+            "category":"Выпечка",
+            "products":[]
         }
     ]
 }

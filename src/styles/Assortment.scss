@@ -1,17 +1,16 @@
 .assortment{
-    padding-top: 25px;
-    display: grid;
-    
-}
-
-.category > .name{
-    font-weight: 900;
-    font-size: 2rem;
-}
-
-
-.product{
-    .preview{
-        width: 150px;
+    .category{
+        margin-top: 12px;
+        .category-name{
+            font-weight: bold;
+            font-size: 2rem;
+        }
+        .items{
+            margin-top: 15px;
+            display: grid;
+            grid-template-columns: 45% 45%;
+            column-gap: 2.5rem;
+            row-gap: 1rem;
+        }
     }
 }
