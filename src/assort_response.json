@@ -17,6 +17,16 @@
                     "name":"Блины с творогом",
                     "price":270,
                     "img":"blin_s_tvorogom"
+                },
+                {
+                    "name":"Блины б+в",
+                    "price":270,
+                    "img": "some img"
+                },
+                {
+                    "name":"Блины б+в",
+                    "price":270,
+                    "img": "some img"
                 }
             ]
         },
